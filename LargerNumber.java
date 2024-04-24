@@ -11,6 +11,7 @@ public class LargerNumber {
         int number2 = Integer.parseInt(args[1]);
 
         // Compare the numbers and find the larger one
+        // using pre defined function
         int largerNumber = Math.max(number1, number2);
 
         // Print the result
